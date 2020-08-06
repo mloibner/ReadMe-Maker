@@ -60,10 +60,11 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-inquirer.prompt(questions)
-.then(function(res) {
-    writeToFile("README.md", res)
-})
+    inquirer.prompt(questions)
+    .then(function(res) {
+        writeToFile("README.md", res);
+        console.log("README.md created successfully!")
+    });
 };
 
 // function call to initialize program
