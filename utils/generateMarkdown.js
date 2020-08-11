@@ -1,7 +1,7 @@
 function generateMarkdown(data) {
     return `# **${data.title}**
     ![NPM version](https://img.shields.io/badge/npm-6.14.4-green)
-    ![GitHub license](https://img.shields.io/badge/License-${response.license}-blue.svg)
+    ![GitHub license](https://img.shields.io/badge/License-${data.license}-blue.svg)
 
     ## Description
     
