@@ -1,10 +1,10 @@
-# ****
+# **Web Developer**
     ![NPM version](https://img.shields.io/badge/npm-6.14.4-green)
     ![GitHub license](https://img.shields.io/badge/License-MIT License-blue.svg)
 
     ## Description
     
-    
+    ReadMe Generator
 
     ## Table of Contents
     - [Installation](#Installation)
@@ -19,23 +19,23 @@
 
     To install necessary dependencies, run the following command:
     ~~~
-    
+    Follow the prompts from Inquirer
     ~~~
           
 
     ## Usage 
     
-    
+    Usage info goes here
 
     ### Contributors
     
-    
+    Contrib guidelines
     
     ### Test
 
     To run tests, run the following command:
     ~~~
-    
+    npm run test
     ~~~
     
     ### Licence
@@ -44,10 +44,10 @@
     
     ### Repository
     
-    - [Project Repository]()
+    - [Project Repository](mloibner)
 
     ### GitHub
     
-    - [GitHub]()
+    - [GitHub](m.loibner@hotmail.com)
 
   
