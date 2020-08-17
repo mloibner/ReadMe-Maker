@@ -1,53 +1,53 @@
-# **Web Developer**
+# **ReadMe Generator**
     ![NPM version](https://img.shields.io/badge/npm-6.14.4-green)
     ![GitHub license](https://img.shields.io/badge/License-MIT License-blue.svg)
 
-    ## Description
+## Description
     
-    ReadMe Generator
+  A command line tool for creating a ReadMe File
 
-    ## Table of Contents
-    - [Installation](#Installation)
-    - [Usage](#Usage)
-    - [Contributors](#Contributors)
-    - [Test](#Tests)
-    - [Licence](#Licence)
-    - [Project Repository](#Project Repository)
-    - [GitHub](#GitHub)
+## Table of Contents
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Contributors](#Contributors)
+  - [Test](#Tests)
+  - [Licence](#Licence)
+  - [Project Repository](#Project Repository)
+  - [GitHub](#GitHub)
     
-    ## Installation
+## Installation
 
-    To install necessary dependencies, run the following command:
+  To install necessary dependencies, run the following command:
     ~~~
-    Follow the prompts from Inquirer
+    npm i
     ~~~
           
 
-    ## Usage 
+## Usage 
     
-    Usage info goes here
+  Usage information goes here
 
-    ### Contributors
-    
-    Contrib guidelines
-    
-    ### Test
+### Contributors
+   
+  Contribution guidelines go here
+   
+### Test
 
-    To run tests, run the following command:
+  To run tests, run the following command:
     ~~~
     npm run test
     ~~~
     
-    ### Licence
+### Licence
     
-    MIT License
+  MIT License
     
-    ### Repository
+### Repository
     
-    - [Project Repository](mloibner)
-
-    ### GitHub
-    
-    - [GitHub](m.loibner@hotmail.com)
-
+  - [Project Repository](mloibner)
   
+### GitHub
+    
+  - [GitHub](m.loibner@hotmail.com)
+
+ 
