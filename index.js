@@ -37,7 +37,7 @@ const questions = [{
     type: "list",
     name: "license",
     message: "Choose a licence for your project",
-    choices: ['MIT License', 'GNU Lesser General Public License v3.0', 'Mozilla Public License 2.0', 'GNU Affero General Public License v3.0', 'The Unlicense', 'Apache License 2.0', 'GNU General Public License v3.0']
+    choices: ['MITLicense', 'GNU Lesser General Public License v3.0', 'Mozilla Public License 2.0', 'GNU Affero General Public License v3.0', 'The Unlicense', 'Apache License 2.0', 'GNU General Public License v3.0']
 },
 {
     type: "input",
