@@ -19,9 +19,7 @@
 ## Installation
 
   To install necessary dependencies, run the following command:
-    ~~~
-    npm i
-    ~~~
+    `npm install`
           
 
 ## Usage 
@@ -35,9 +33,7 @@
 ### Test
 
   To run tests, run the following command:
-    ~~~
-    npm run test
-    ~~~
+   `npm run test`
     
 ### Licence
     
