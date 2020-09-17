@@ -13,7 +13,7 @@
   - [Contributors](#Contributors)
   - [Test](#Tests)
   - [Licence](#Licence)
-  - [Project Repository](#Project Repository)
+  - [Project_Repository](#Project_Repository)
   - [GitHub](#GitHub)
     
 ## Installation
@@ -41,7 +41,7 @@
     
 ### Repository
     
-  - [Project Repository](mloibner)
+  - [Project_Repository](mloibner)
   
 ### GitHub
     
