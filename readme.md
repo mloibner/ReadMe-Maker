@@ -1,10 +1,10 @@
 # **ReadMe Generator**
   ![NPM version](https://img.shields.io/badge/npm-6.14.4-green)
-  ![GitHub license](https://img.shields.io/badge/License-GNUAfferoGeneralPublicLicensev3.0-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/License-MITLicense-blue.svg)
 
 ## Description
     
-  A command line tool for creating a ReadMe
+  A command line tool for creating ReadMe files.
 
 ## Table of Contents
   - [Installation](#Installation)
@@ -17,29 +17,34 @@
 ## Installation
 
   To install necessary dependencies, run the following command:
-    ~~~
-    run NPM I
-    ~~~
+    
+    `NPM I`
+    
           
 
 ## Usage 
     
-  Usage information to go here
+  To use this application, copy and paste the code and run un your terminal via command node index.js. Follow the promps as per the video demonstration below. 
+
+  <link src="./Assets/Screen Recording 2020-09-17 at 9.34.43 pm.mov">
+
+  See a demonstration readme file generated below.
+  <link src="./Assets/readme.md">
 
 ### Contributors
    
-  Contribution welcome
+  Contribution is welcome
    
 ### Test
 
   To run tests, run the following command:
-    ~~~
-    run NPM RUN TEST
-    ~~~
+    
+    `NPM RUN TEST`
+    
     
 ### Licence
     
-  GNUAfferoGeneralPublicLicensev3.0
+  MIT License
   
 ### GitHub
     
