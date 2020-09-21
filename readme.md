@@ -26,10 +26,7 @@
     
   To use this application, copy and paste the code and run un your terminal via command node index.js. Follow the promps as per the video demonstration below. 
 
-  <link src="./Assets/Screen Recording 2020-09-17 at 9.34.43 pm.mov">
-
-  See a demonstration readme file generated below.
-  <link src="./Assets/readme.md">
+  https://youtu.be/4-EcAgQwG8E
 
 ### Contributors
    
